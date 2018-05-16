@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+
+form{
+  margin-top: 100px; 
+}
+
+#hoverDiv{
+  margin-top: 100px;
+  border: 1px solid black; 
+  border-radius: 2px; 
+  width: 150px; 
+  margin-left: 43%
+}
+
+#hoverDiv:hover{
+  background-color: lightgrey; 
+  cursor: pointer; 
+}
+
